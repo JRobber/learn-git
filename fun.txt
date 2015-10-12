@@ -1,3 +1,7 @@
 “Hello world!” - said everyone, always
 
 We are awesome!
+
+for(var i = 0; i < 100000; i++){
+    console.log("I shouldn't be talking this much");
+}
